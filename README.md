@@ -31,7 +31,7 @@ Disclaimer: Proposed work under review. Copy, sharing, & distribution not allowe
 
 ## Acknowledgments
 The Stuttgart dataset is downloaded from the city of Stuttgart DEPUC website and luftdaten.info-Feinstaub selber messen.
-This work is part of Windy cities projects, (Joint Graduate Research Training Group Windy Cities) Stuttgart, Germany [Windcities] (http://windycities.de/)
+This work is part of Windy cities projects, (Joint Graduate Research Training Group Windy Cities) Stuttgart, Germany [Windcities](http://windycities.de/)
 
 
 
