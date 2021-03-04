@@ -23,7 +23,7 @@ Voila! AQTA is running live on your system. Interact, select, analyse, and visua
 * [SQLite](https://sqlite.org/docs.html) - The used database engine. 
 
 ## Authors
-* **Shubhi Harbola** - *Initial work* - [Shubhi Harbola](https://shharbola.github.io/)
+* **Shubhi Harbola** - *First & corresponding author* - [Shubhi Harbola](https://shharbola.github.io/)
 See also the list of [contributors]() who participated in this manuscript.
 
 ## License
