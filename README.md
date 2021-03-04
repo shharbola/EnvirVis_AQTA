@@ -8,14 +8,14 @@ These instructions would get you a copy of the AQTA web platform up and running 
 ## Prerequisites
 High speed running internet over desktop, laptop and mobile.
 
-## Running the test case (Stuttgart small sample set)
+## Running the test case (Stuttgart)
 Open or click the safe secured shared link 
 https://aqta-visualisation.herokuapp.com/
 
 ## Deployment
 Voila! AQTA is running live on your system. Interact, select, analyse, and visual predict the air quality conditions in Stuttgart. 
 
-## Built With
+## Built with
 * [Streamlit](https://docs.streamlit.io/en/stable/) - An open-source app framework.
 * [TensorFlow](https://www.tensorflow.org/resources/) - An end-to-end open source machine learning platform.
 * [Heroku](https://docs.streamlit.io/en/stable/) - A platform as a service (PaaS) to build, run, and operate applications entirely in the cloud.
