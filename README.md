@@ -1,4 +1,5 @@
+                                                             # Air Quality Time Analyser (AQTA)
 # Title: Air Quality Time Analyser: Interactive temporal analyses with visual prediction
-# Air Quality Time Analyser (AQTA)
-##
 This work presents Air Quality Time Analyser (AQTA), a system to support visual analyses of air quality data with time. This interactive system-user architecture allows the seamless integration of predictive models and detailed patterns analyses. While previous approaches lack predictive air quality options, the proposed interface provides back-and-forth dialogue with the designed multiple Machine Learning (ML) models and comparisons for better visual predictive assessments. These models can be dynamically selected in real-time, and the user could visually compare the results in different time conditions for chosen parameters. Moreover, AQTA provides data selection, display, visualisation of past, present, future (prediction) and correlation structure among air parameters, highlighting the predictive models effectiveness. AQTA has been evaluated using Stuttgart (Germany) city air pollutants.
+
+##
