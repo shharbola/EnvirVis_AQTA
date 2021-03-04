@@ -4,4 +4,7 @@ This work presents Air Quality Time Analyser (AQTA), a system to support visual 
 
 ## Getting started
 These instructions would get you a copy of the AQTA web platform up and running on your local machine for development and testing purposes. The proposed work's visual deployment (under review in EnvirVIS 2021) provided an interactive understanding of this novel work.
+### Prerequisites
+
+What things you need to install the software and how to install them
 
