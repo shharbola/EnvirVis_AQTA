@@ -8,6 +8,10 @@ These instructions would get you a copy of the AQTA web platform up and running 
 ## Prerequisites
 High speed running internet over desktop, laptop and mobile.
 
+## Web deploymnet: Demo-video
+
+
+
 ## Running the test case (Stuttgart)
 Open or click the safe secured shared link 
 https://aqta-visualisation.herokuapp.com/
