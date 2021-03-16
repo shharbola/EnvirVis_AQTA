@@ -1,6 +1,3 @@
-
-https://user-images.githubusercontent.com/33331272/111377457-f8ae6480-86a0-11eb-841d-5b87b568a5ee.mp4
-
                                       # Air Quality Temporal Analyser (AQTA)
 # Air Quality Temporal Analyser: Interactive temporal analyses with visual prediction
 This work presents Air Quality Temporal Analyser (AQTA), a system to support visual analyses of air quality data with time. Proposed interactive system-user architecture allows the seamless integration of predictive models and detailed patterns analyses. While previous approaches lack predictive air quality options, the proposed interface provides back-and-forth dialogue with the designed multiple Machine Learning (ML) models and comparisons for better visual predictive assessments. These models can be dynamically selected in real-time, and the user could visually compare the results in different time conditions for chosen parameters. Moreover, AQTA provides data selection, display, visualisation of past, present, future (prediction) and correlation structure among air parameters, highlighting the predictive models effectiveness. AQTA has been evaluated using Stuttgart (Germany) city air pollutants.
@@ -12,8 +9,7 @@ These instructions would get you a copy of the AQTA web platform up and running 
 High speed running internet over desktop, laptop and mobile.
 
 ## Web deployment: Demo-video
-
-
+https://user-images.githubusercontent.com/33331272/111377457-f8ae6480-86a0-11eb-841d-5b87b568a5ee.mp4
 
 ## Running the test case (Stuttgart)
 Open or click the safe secured shared link 
