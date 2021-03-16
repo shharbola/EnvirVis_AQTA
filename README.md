@@ -9,7 +9,7 @@ These instructions would get you a copy of the AQTA web platform up and running 
 High speed running internet over desktop, laptop and mobile.
 
 ## Web deployment: Demo-video
-This link provides an interactive demonstration video showing the AQTA web deployment interface.
+This link provides an interactive demonstration video showing the AQTA web deployment interface
 https://user-images.githubusercontent.com/33331272/111377457-f8ae6480-86a0-11eb-841d-5b87b568a5ee.mp4
 
 ## Running the test case (Stuttgart)
@@ -29,7 +29,7 @@ Voila! AQTA is running live on your system. Interact, select, analyse, and visua
 ## Authors
 * **Shubhi Harbola** - *First & the corresponding author* - [Shubhi Harbola](https://shharbola.github.io/)
 
-See also the list of [contributors]() who participated in this manuscript.
+See also the list of [contributors](Dr. Steffen Koch, Prof. Thomas Ertl and Prof. Volker Coors) who participated in this manuscript.
 
 ## License
 Disclaimer: Proposed work under review. Copy, sharing, & distribution not allowed first needs authors permission !
