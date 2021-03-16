@@ -29,7 +29,7 @@ Voila! AQTA is running live on your system. Interact, select, analyse, and visua
 ## Authors
 * **Shubhi Harbola** - *First & the corresponding author* - [Shubhi Harbola](https://shharbola.github.io/)
 
-See also the list of [contributors](Dr. Steffen Koch, Prof. Thomas Ertl and Prof. Volker Coors) who participated in this manuscript.
+See also the list of [contributors]() who participated in this manuscript.
 
 ## License
 Disclaimer: Proposed work under review. Copy, sharing, & distribution not allowed first needs authors permission !
